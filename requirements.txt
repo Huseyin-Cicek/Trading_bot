@@ -57,14 +57,14 @@ sniffio
 soupsieve
 SQLAlchemy
 sseclient-py
-starlette
+starlette==0.27.0
 tornado
 typing_extensions
 tzdata
 urllib3
 uvicorn
 webencodings
-websockets
+websockets==10.3
 xyzservices
 yfinance
 zope.interface
